@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36607" started-at="2021-12-04T13:10:24Z" finished-at="2021-12-04T13:11:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36607" started-at="2021-12-04T13:10:24Z" finished-at="2021-12-04T13:11:01Z">
+      <class name="screenshot.GoogleScreenshot">
+        <test-method status="PASS" signature="TakeScreenshot()[pri:0, instance:screenshot.GoogleScreenshot@61832929]" name="TakeScreenshot" duration-ms="36560" started-at="2021-12-04T13:10:24Z" finished-at="2021-12-04T13:11:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TakeScreenshot -->
+      </class> <!-- screenshot.GoogleScreenshot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
